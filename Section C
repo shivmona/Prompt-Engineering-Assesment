@@ -1,1 +1,75 @@
 Prompt- 
+
+Role- Resume Creator
+Objective- Create my Resume Template
+Subject- build a ats approved resume
+Example- personal information, summary, projects, internship, etc
+
+RESULT:-
+
+# Shivansh Vishwakarma
+
+📧 [shivanshvishwakarma7448@gmail.com](mailto:shivanshvishwakarma7448@gmail.com)
+📞 9589692598
+🔗 [LinkedIn](https://www.linkedin.com/in/shivansh-vishwakarma-8749b4246)
+🔗 [Github] {https://github.com/shivmona}
+
+---
+
+## 🔹 Summary
+
+Results-driven professional with certifications in Project Management and Financial Markets. Skilled in data analysis, visualization, and project management. Strong communicator with a strategic mindset and problem-solving abilities to drive business and project success.
+
+---
+
+## 🔹 Skills & Abilities
+
+* Data Analysis
+* Data Visualization
+* Communication
+* Problem Solving
+* Teamwork
+* Time Management
+
+---
+
+## 🔹 Education
+
+**Sage University, Bhopal**
+*Bachelor of Business Administration (BBA) – Banking and Finance*
+2022 – Present
+
+---
+
+## 🔹 Certifications
+
+* Project Management – Great Learning
+* Financial Markets – Great Learning
+* Data Science And Machine Learning - Netligent Technologies LLP
+* Prompt Engineering Basics - Netligent Technologies LLP
+
+---
+
+## 🔹 Internship Experience
+
+**Muskurahat Foundation** – Crowdfunding Intern
+*Duration: \[Insert Duration]*
+
+* Improved communication skills through interaction with stakeholders
+* Developed emotional connection with audiences through storytelling techniques
+* Built social network and visibility through targeted social media marketing
+
+---
+
+## 🔹 Projects
+
+**Credit Card Fraud Detection (Logistic Regression)**
+
+* Built a machine learning model using logistic regression to identify fraudulent credit card transactions
+* Preprocessed the dataset, trained the model, and saved it as a `.pkl` file for deployment
+
+**[Model Selection and Evaluation](https://github.com/shivmona/Model-selection-and-evaluation)**
+
+* Developed and evaluated multiple machine learning models using classification techniques.
+* Focused on identifying the most suitable model based on performance metrics such as accuracy, precision, recall, and F1-score.
+* Applied cross-validation to ensure model generalizability and reduce overfitting.
